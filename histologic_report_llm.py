@@ -32,18 +32,18 @@ class Histologic_report_writer():
         for subdir in os.listdir(input_dir):
             subdir_path = os.path.join(input_dir, subdir)
 
-            for filename in subdir_path:
-                with open(filename, "r") as f:
-                    description_histo = f.read()
+            if os.path.isdir(subdir_path):
+                for filename in os.listdir(subdir_path):
+                    if filename.endswith(".md"):
+                        md_path = os.path.join(subdir_path, filename)
 
-                medical_report = report_writer(description_histo)
-                title = filename.replace(".md", "")
-                resume = f"#{title}\n\n{medical_report}\n\n---\n"
-                all_report.append(resume)
+                        with open(md_path, "r", encoding="utf-8") as f:
+                            description_histo = f.read()
 
-            print(f"compte-rendu généré pour : {filename}")
+                        medical_report = report_writer(description_histo)
+                        title = filename.replace(".md", "")
+                        resume = f"# {title}\n\n{medical_report}\n\n---\n"
+                        all_report.append(resume)
 
         with open(output_file, "w", encoding="utf-8") as f:
             f.writelines(all_report)
-
-        print(f"tous les comptes-rendus sont dans {output_file}")
