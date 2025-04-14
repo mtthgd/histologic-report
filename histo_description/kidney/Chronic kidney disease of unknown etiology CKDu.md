@@ -1,0 +1,21 @@
+# Chronic kidney disease of unknown etiology CKDu
+
+Microscopic (histologic) description
+
+* In most CKDu endemic regions, kidney biopsies are not performed routinely
+* Some patients with a clinical diagnosis of CKDu show histological features of other etiologies and should receive an appropriate pathological diagnosis
+* Similar spectrum of glomerular and tubulointerstitial pathological changes is reported in CKDu patients with no arterial changes, in those with early arteriopathy (such as mild intimal fibroelastosis and mild smooth muscle hyperplasia) and those with moderate arteriosclerosis ([Am J Kidney Dis 2013;62:908](https://www.ncbi.nlm.nih.gov/pubmed/23850447), [PLoS One 2018;13:e0193056](https://www.ncbi.nlm.nih.gov/pubmed/29513702), [Environ Health Prev Med 2012;17:213](https://www.ncbi.nlm.nih.gov/pubmed/21993948))
+  + However, samples displaying significant arteriosclerosis should be treated with caution as there is an overlap between many features of CKDu and vascular pathology
+  + Atherosclerosis and essential hypertension are only rarely seen in CKDu susceptible populations; whether CKDu can directly affect the blood vessels is not known
+* In the acute kidney injury stage preceding CKDu, patients display histological features consistent with acute tubulointerstitial nephritis; however, the inflammatory infiltrate is predominantly lymphocytic
+  + Eosinophils and plasma cells are rare ([Am J Trop Med Hyg 2017;97:1247](https://www.ncbi.nlm.nih.gov/pubmed/28722618))
+  + Both acute and chronic components of the tubulointerstitial nephritis are present ([Kidney Int 2018;93:681](https://www.ncbi.nlm.nih.gov/pubmed/29162294))
+* Most CKDu patients with chronic kidney disease stages 2, 3 and 4 display interstitial fibrosis and tubular atrophy with or without chronic inflammation ([Am J Kidney Dis 2013;62:908](https://www.ncbi.nlm.nih.gov/pubmed/23850447), [MEDICC Rev 2014;16:49](https://www.ncbi.nlm.nih.gov/pubmed/24878649), [Am J Kidney Dis 2023 Oct 19 [Epub ahead of print]](https://www.ncbi.nlm.nih.gov/pubmed/37877930))
+  + Inflammatory infiltrate is predominantly mononuclear and eosinophils are rare ([Am J Trop Med Hyg 2017;97:1247](https://www.ncbi.nlm.nih.gov/pubmed/28722618), [Environ Health Prev Med 2012;17:213](https://www.ncbi.nlm.nih.gov/pubmed/21993948))
+  + Tubulitis is either not seen or is mild and rare ([Environ Health Prev Med 2012;17:213](https://www.ncbi.nlm.nih.gov/pubmed/21993948), [Am J Kidney Dis 2013;62:908](https://www.ncbi.nlm.nih.gov/pubmed/23850447))
+  + More advanced interstitial fibrosis is seen in male patients ([MEDICC Rev 2014;16:49](https://www.ncbi.nlm.nih.gov/pubmed/24878649))
+* Second most frequently observed lesion is significant global glomerulosclerosis, obsolescent glomeruli as well as glomerular deflation with capillary wall wrinkling ([Am J Kidney Dis 2013;62:908](https://www.ncbi.nlm.nih.gov/pubmed/23850447), [MEDICC Rev 2014;16:49](https://www.ncbi.nlm.nih.gov/pubmed/24878649), [Environ Health Prev Med 2012;17:213](https://www.ncbi.nlm.nih.gov/pubmed/21993948))
+* Glomerulomegaly is reported in ~30% of patients, likely compensatory due to kidney parenchyma loss ([MEDICC Rev 2014;16:49](https://www.ncbi.nlm.nih.gov/pubmed/24878649), [Environ Health Prev Med 2012;17:213](https://www.ncbi.nlm.nih.gov/pubmed/21993948))
+  + Mild mesangial matrix expansion is often seen ([Am J Kidney Dis 2013;62:908](https://www.ncbi.nlm.nih.gov/pubmed/23850447), [PLoS One 2018;13:e0193056](https://www.ncbi.nlm.nih.gov/pubmed/29513702))
+* In addition to the features above, a study described silver stained cytoplasmic granules revealed in the proximal tubules by Jones staining and reacting with lysosomal markers; lysosomal lesions were found by electron microscopy (see [below](https://www.pathologyoutlines.com/topic/kidneynontumorCKDu.html#kidneynontumorCKDuelectron)) and resemble those seen in toxic tubular lesions, supporting the toxic etiology of CKDu ([Kidney Int 2020;97:350](https://www.ncbi.nlm.nih.gov/pubmed/31892415))
+* Focal segmental glomerulosclerosis (FSGS), specifically perihilar FSGS, is reported in patients with CKDu and is hypothesized to be secondary to nephron loss (FSGS) ([Environ Health Prev Med 2012;17:213](https://www.ncbi.nlm.nih.gov/pubmed/21993948))

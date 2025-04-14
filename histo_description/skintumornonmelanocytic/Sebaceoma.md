@@ -1,0 +1,12 @@
+# Sebaceoma
+
+Microscopic (histologic) description
+
+* Dermal based tumor with rare epidermal attachments
+* Consists of variably sized, discrete nodules that lack lobular organization architecture ([Am J Dermatopathol 1984;6:7](https://www.ncbi.nlm.nih.gov/pubmed/6703260), [Am J Dermatopathol 2002;24:294](https://www.ncbi.nlm.nih.gov/pubmed/12142607), [Am J Dermatopathol 2001;23:58](https://www.ncbi.nlm.nih.gov/pubmed/11176054), [J Am Acad Dermatol 1990;22:533](https://www.ncbi.nlm.nih.gov/pubmed/2312838))
+* Cytologically, the sebocytes have multiple cytoplasmic vacuoles and scalloped nuclei; the immature basaloid component features frequent mitotic activity but lacks atypical forms or necrosis
+* Cystic spaces and duct-like structures are often present, displaying an eosinophilic cuticle and occasional holocrine secretions ([Surg Pathol Clin 2017;10:367](https://www.ncbi.nlm.nih.gov/pubmed/28477886), [Ann Dermatol Venereol 2016;143:814](https://www.ncbi.nlm.nih.gov/pubmed/27836252), [Am J Dermatopathol 1984;6:7](https://www.ncbi.nlm.nih.gov/pubmed/6703260))
+  + Moreover, apocrine differentiation, infundibulocystic structures and squamous metaplasia can also be seen ([Am J Dermatopathol 2016;38:678](https://www.ncbi.nlm.nih.gov/pubmed/26760686))
+* Based on the growth patterns, sebaceoma variants can be described as follows: reticulated (rippled), cribriform, sinusoidal / labyrinthine, carcinoid-like and glandular ([Dermatol Online J 2016;22:13030](https://www.ncbi.nlm.nih.gov/pubmed/26990478), [Am J Dermatopathol 2009;31:364](https://www.ncbi.nlm.nih.gov/pubmed/19461240), [Ann Dermatol Venereol 2016;143:814](https://www.ncbi.nlm.nih.gov/pubmed/27836252), [Am J Dermatopathol 2005;27:195](https://www.ncbi.nlm.nih.gov/pubmed/15900121), [Am J Dermatopathol 2018;40:479](https://www.ncbi.nlm.nih.gov/pubmed/29924747))
+  + > 1 configuration may be present within the same neoplasm
+* MMR deficient sebaceous neoplasms more often show cystic change, intratumoral mucin, squamous metaplasia, ulceration, a lymphocytic infiltrate and intertumoral heterogeneity compared to MMR stable sebaceous neoplasms ([Am J Dermatopathol 2021;43:174](https://www.ncbi.nlm.nih.gov/pubmed/33201015))

@@ -1,0 +1,19 @@
+# Metastases
+
+Microscopic (histologic) description
+
+* There is usually sharp demarcation from adjacent brain parenchyma and the histological features are similar to the primary tumor
+* Adjacent glial tissue may show reactive astrocytosis, microglial proliferation, necrosis and vascular proliferation; these features may sometimes lead to misinterpretation as glioblastoma, especially in small biopsy samples ([Surg Neurol Int 2013;4:S245](https://www.ncbi.nlm.nih.gov/pubmed/23717796))
+  + Meningeal carcinomatosis
+    - Neoplastic cells are observed within the subarachnoid space, along the perivascular spaces
+  + Malignant melanoma ([Surg Neurol Int 2013;4:S245](https://www.ncbi.nlm.nih.gov/pubmed/23717796))
+    - Epithelioid cells contain abundant pink cytoplasm, large nuclei and prominent cherry red nucleoli; frequent mitotic figures and scattered melanophages are noted
+    - Tumor may display spindle cells, mimicking sarcoma
+  + Sarcoma
+    - Variable histological features, essentially associated with primary tumor's origin; these can range from bundles of spindle cells with cigar shaped, elongated nuclei in leiomyosarcoma to nests of large polygonal cells with granular eosinophilic cytoplasm and uniform round nuclei and prominent nucleoli in alveolar soft part sarcoma ([Surg Neurol Int 2013;4:S245](https://www.ncbi.nlm.nih.gov/pubmed/23717796))
+  + Carcinoma
+    - Carcinomas form the majority of CNS metastases
+    - Neoplastic cells are typically cohesive, polygonal, round, cuboidal or columnar and are arranged in sheets, tubules, trabeculae, nests, papillae or acinar structures with moderate to abundant cytoplasm
+    - Squamous tumors are composed of flattened cells with dense pink cytoplasm, exhibiting intercellular bridges and keratin pearls, diagnostic features of squamous differentiation
+    - Small cell carcinoma exhibits primitive epithelial and neuroendocrine differentiation, composed of small cells with scant eosinophilic cytoplasm, oval to spindle shaped nuclei with dark, smudgy nuclear chromatin and inconspicuous nucleoli; mitotic figures and necrosis are common
+    - Choriocarcinoma comprises mononucleated epithelioid cells that resemble cytotrophoblast, surrounded by larger multinucleated syncytiotrophoblasts ([Surg Neurol Int 2013;4:S245](https://www.ncbi.nlm.nih.gov/pubmed/23717796))

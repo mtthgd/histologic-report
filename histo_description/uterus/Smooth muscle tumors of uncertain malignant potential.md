@@ -1,0 +1,24 @@
+# Smooth muscle tumors of uncertain malignant potential
+
+Microscopic (histologic) description
+
+* Morphologically heterogeneous and diagnostically challenging
+* Generous sampling advised for microscopic examination ([Mod Pathol 2016;29:S104](https://www.ncbi.nlm.nih.gov/pubmed/26715170))
+* General diagnostic criteria:
+  + 1 of the 3 criteria for leiomyosarcoma (coagulative tumor cell necrosis, cytologic atypia, elevated mitotic activity) should be present
+  + Other useful parameters include atypical mitoses, vascular involvement and infiltrative / irregular margins ([Histopathology 2018;73:284](https://www.ncbi.nlm.nih.gov/pubmed/29537683), [Am J Surg Pathol 2008;32:98](https://www.ncbi.nlm.nih.gov/pubmed/18162776))
+* General guidelines for spindled smooth muscle tumors:
+  + Tumors with focal / multifocal or diffuse cytologic atypia and 2 - 4 mitoses / mm2 (6 - 9 mitoses / 10 high power fields [HPF] of 0.55 mm field of diameter [FD] and 0.24 mm2 in area) but lacking coagulative necrosis [Am J Surg Pathol 2009;33:992](https://www.ncbi.nlm.nih.gov/pubmed/19417585), [Am J Surg Pathol 2008;32:98](https://www.ncbi.nlm.nih.gov/pubmed/18162776), [Histopathology 2018;73:284](https://www.ncbi.nlm.nih.gov/pubmed/29537683), [Int J Clin Exp Pathol 2014;7:8136](https://www.ncbi.nlm.nih.gov/pubmed/25550862), [Oncol Lett 2016;11:1425](https://www.ncbi.nlm.nih.gov/pubmed/26893755), [Am J Surg Pathol 1994;18:535](https://www.ncbi.nlm.nih.gov/pubmed/8179071), [Int J Gynecol Cancer 2008;18:1121](https://www.ncbi.nlm.nih.gov/pubmed/17986240), [Int J Gynecol Pathol 2009;28:529](https://www.ncbi.nlm.nih.gov/pubmed/19851199), [Am J Surg Pathol 2011;35:1626](https://www.ncbi.nlm.nih.gov/pubmed/21921786)):
+    - 12 - 17% of STUMPs have these features
+    - Some STUMPs with fewer mitoses have recurred
+  + Tumors with unequivocal coagulative necrosis but lacking cytologic atypia or elevated mitotic activity:
+    - 28% (5/18) of reported cases have recurred ([Am J Surg Pathol 2008;32:98](https://www.ncbi.nlm.nih.gov/pubmed/18162776), [Am J Surg Pathol 1994;18:535](https://www.ncbi.nlm.nih.gov/pubmed/8179071), [Histopathology 2018;73:284](https://www.ncbi.nlm.nih.gov/pubmed/29537683), [Int J Gynecol Cancer 2005;15:1210](https://www.ncbi.nlm.nih.gov/pubmed/16343216), [Eur J Obstet Gynecol Reprod Biol 2018;228:1](https://www.ncbi.nlm.nih.gov/pubmed/29902779))
+    - Distinguishing between coagulative necrosis and early infarct type necrosis can be difficult ([Am J Surg Pathol 2007;31:1215](https://www.ncbi.nlm.nih.gov/pubmed/17667546), [Am J Surg Pathol 2013;37:650](https://www.ncbi.nlm.nih.gov/pubmed/23552382))
+  + Tumors with elevated mitotic activity at > 6 mitoses / mm2 or > 15 mitoses / 10 HPF (FD = 0.55, 0.24 mm2 in area) but lacking coagulative necrosis or cytologic atypia:
+    - 0% (0/42) of reported cases have recurred ([Am J Surg Pathol 1994;18:535](https://www.ncbi.nlm.nih.gov/pubmed/8179071), [Am J Surg Pathol 2009;33:992](https://www.ncbi.nlm.nih.gov/pubmed/19417585), [Histopathology 2018;73:284](https://www.ncbi.nlm.nih.gov/pubmed/29537683))
+  + Tumors with diffuse cytologic atypia and uncertain mitotic count, often due to prominent karyorrhexis but lacking coagulative necrosis:
+    - PHH3 immunohistochemistry may be helpful for accurate assessment of mitotic figures ([Histopathology 2017;70:746](https://www.ncbi.nlm.nih.gov/pubmed/27864989), [Int J Gynecol Pathol 2009;28:316](https://www.ncbi.nlm.nih.gov/pubmed/19483635), [Int J Clin Exp Pathol 2015;8:4418](https://www.ncbi.nlm.nih.gov/pubmed/26191133))
+* Epithelioid STUMP:
+  + Tumors exceeding the criteria for epithelioid leiomyoma (rounded or polygonal cells with eosinophilic granular or clear cytoplasm lacking cytologic atypia, 2 or 2 in area) but falling short of a diagnosis of epithelioid leiomyosarcoma (moderate to severe cytologic atypia or coagulative necrosis or ≥ 1.6 mitoses / mm2 or ≥ 4 mitoses / 10 HPF, FD = 0.55, 0.24 mm2 in area) ([Am J Surg Pathol 1997;21:38](https://www.ncbi.nlm.nih.gov/pubmed/9130984), [Cancer 1976;37:1853](https://www.ncbi.nlm.nih.gov/pubmed/56982))
+* Myxoid STUMP:
+  + Tumors exceeding the criteria for myxoid leiomyoma (circumscribed, hypocellular and myxoid tumor lacking cytologic atypia or mitotic activity) but falling short of a diagnosis of myxoid leiomyosarcoma (moderate to severe cytologic atypia or coagulative necrosis or > 0.4 mitoses / mm2 / > 1 mitosis / 10 HPF, FD = 0.55, 0.24 mm2 in area or infiltrative / irregular borders) ([Am J Surg Pathol 2016;40:285](https://www.ncbi.nlm.nih.gov/pubmed/26866354), [Adv Anat Pathol 2017;24:354](https://www.ncbi.nlm.nih.gov/pubmed/28787279))

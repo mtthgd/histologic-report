@@ -1,0 +1,19 @@
+# Hepatocellular adenoma
+
+Microscopic (histologic) description
+
+* Well defined border between the lesion and background liver
+* Composed of hepatocytes with no significant cytologic atypia
+* Arranged as thin or only mildly thickened cell plates, 1 - 2 cells thick
+* May have pseudoacinar arrangement and steatotic foci
+* Characterized by unpaired arteries; interlobular bile ducts are absent, some cases show bile ductules
+* Foci of hemorrhage, ischemic changes and necrosis
+* No cytologic atypia, atypical mitoses and portal / parenchymal invasion
+* Reticulin stain helpful to establish near normal hepatocyte plate thickness with only focal loss, particularly in the steatotic areas
+* Microscopic features of specific subtypes include
+  + *HNF1A* mutated hepatocellular adenoma (HA-H): characterized by steatosis (fat accumulation in lesional hepatocytes), reticulin staining is mostly intact, some cases / areas show packeting (i.e., prominent pericellular staining or almost complete circling of small groups of hepatocytes by reticulin fibers)
+  + Beta catenin mutated hepatocellular adenoma (HA-B): pseudoacinar arrangement; cytologic abnormalities including nuclear pleomorphism and atypia, multinucleation, prominent nucleoli; steatosis is rare, no significant inflammation
+  + Inflammatory hepatocellular adenoma (HA-I): may have irregular, poorly circumscribed borders; inflammatory infiltrates and sinusoidal dilatation; may have pseudoportal tracts, which are islands of thick walled arteries with no definite bile ducts but associated ductular reaction
+  + Hepatocellular adenoma, not otherwise specified (HA-U): morphology characteristic of adenoma but no specific characteristics of the individual subtypes; lesions with extensive hemorrhage and necrosis are currently grouped into this subtype
+  + Sonic hedgehog (SHH) hepatocellular adenoma (HA-sh): well differentiated with possible areas of retracted hepatocytes containing condensed nuclei; hemorrhagic areas, congestion and fibrotic bands can be present, as well as peliotic changes and variously sized cavities that can contain blood at varying stages of degradation
+* References: [Burt: MacSween's Pathology of the Liver, 7th Edition, 2017](https://www.amazon.com/exec/obidos/ASIN/0702066974/pathologyoutl-20), [Diagn Pathol 2016;11:27](https://www.ncbi.nlm.nih.gov/pubmed/26961851), [Clin Mol Hepatol 2016;22:199](https://www.ncbi.nlm.nih.gov/pubmed/27189732), [Hepatology 2006;43:515](https://www.ncbi.nlm.nih.gov/pubmed/16496320), [Arch Pathol Lab Med 2014;138:1090](https://www.ncbi.nlm.nih.gov/pubmed/25076298), [Front Med (Lausanne) 2017;4:10](https://www.ncbi.nlm.nih.gov/pubmed/28280721), [Histopathology 2022;80:878](https://www.ncbi.nlm.nih.gov/pubmed/34856012)

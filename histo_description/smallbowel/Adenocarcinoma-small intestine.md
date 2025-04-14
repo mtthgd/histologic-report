@@ -1,0 +1,11 @@
+# Adenocarcinoma-small intestine
+
+Microscopic (histologic) description
+
+* Adenocarcinomas, not otherwise specified, are characterized by columnar epithelial cells with elongated, pseudostratified nuclei forming complex glandular architecture with nuclear pleomorphism, loss of epithelial polarity and luminal dirty necrosis
+* Histologic grading system, based on the extent of glandular formation in the tumor, is recommended; grading is done as well differentiated (with more than 95% of tumor composed of glands), moderately differentiated (with 50% to 95% of tumor composed of glands) and poorly differentiated (with less than 50% of tumor composed of glands)
+* Additional histologic characterizations include mucinous adenocarcinoma (> 50% mucin), poorly cohesive cell carcinoma (with or without signet ring cells), medullary carcinoma, adenosquamous carcinoma (squamous and adenocarcinoma components), undifferentiated carcinoma or mixed neuroendocrine nonneuroendocrine neoplasm (MiNEN)
+* Signet ring cell / poorly differentiated carcinomas, presenting as late stage disease, are more common in Crohn's disease than as de novo small intestinal carcinomas ([Inflamm Bowel Dis 2005;11:828](https://www.ncbi.nlm.nih.gov/pubmed/16116317))
+* Lynch syndrome associated small intestinal adenocarcinomas show similar features to their colorectal counterparts; tumors often show a high number of intratumoral lymphocytes and Crohn's-like lymphoid reaction ([Gastroenterology 2005;128:590](https://www.ncbi.nlm.nih.gov/pubmed/15765394))
+* Preexisting adenoma is present in the majority of proximal tumors but sometimes cannot be identified in large distal small intestinal adenocarcinomas due to tumor overgrowth
+* Determining a background of Crohn's disease can sometimes be difficult because the histologic characteristics of Crohn's disease such as transmural inflammation can be caused by the tumor; oftentimes patients present without an established diagnosis of inflammatory bowel disease ([J Crohns Colitis 2014;8:19](https://www.ncbi.nlm.nih.gov/pubmed/23664498))

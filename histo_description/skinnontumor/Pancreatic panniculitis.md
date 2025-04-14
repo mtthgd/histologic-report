@@ -1,0 +1,9 @@
+# Pancreatic panniculitis
+
+Microscopic (histologic) description
+
+* Changes are lobular in distribution and characterized by ghost cells, which are anucleate cells composed of amorphous granular debris and a rim of eosinophilia; also stippled basophilia due to calcification
+* Usually neutrophils around foci of fat necrosis and hemorrhage
+* Uninvolved surrounding fat is heavily infiltrated by acute and chronic inflammatory cells including large numbers of macrophages, many with foamy cytoplasm due to ingested lipid, and occasional multinucleated giant cells
+* No evidence of vasculitis
+* Birefringent crystals have been described in the mesenteric fat and within affected joints, but not in subcutaneous fat

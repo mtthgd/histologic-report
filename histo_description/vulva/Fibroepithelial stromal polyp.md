@@ -1,0 +1,11 @@
+# Fibroepithelial stromal polyp
+
+Microscopic (histologic) description
+
+* Polypoid and noncircumscribed, extending to the epithelial / subepithelial interface ([J Low Genit Tract Dis 2011;15:69](https://www.ncbi.nlm.nih.gov/pubmed/21192181), [Am J Surg Pathol 2000;24:231](https://www.ncbi.nlm.nih.gov/pubmed/10680891))
+* 2 stromal cellularity variants: hypocellular form (spindle cells set within a loose collagenous myxoid-like stroma) or hypercellular variant (exhibits marked nuclear pleomorphism and frequent mitoses, including atypical forms), especially during pregnancy, therefore mimicking [leiomyosarcoma](https://www.pathologyoutlines.com/topic/vulvaLMS.html) or [rhabdomyosarcoma](https://www.pathologyoutlines.com/topic/vaginarms.html) ([Am J Surg Pathol 2000;24:231](https://www.ncbi.nlm.nih.gov/pubmed/10680891))
+* Overlying squamous epithelium may display reactive changes but without papillomatous architecture or koilocytosis, which distinguishes it from [condyloma acuminatum](https://www.pathologyoutlines.com/topic/vulvacondyloma.html) (caused by human papillomavirus) ([Am J Surg Pathol 2005;29:460](https://www.ncbi.nlm.nih.gov/pubmed/15767798))
+* Stellate cells should not be interpreted as sarcoma ([J Low Genit Tract Dis 2011;15:134](https://www.ncbi.nlm.nih.gov/pubmed/21478700))
+  + Commonly found around blood vessels or near the epidermal stromal interface
+* Acrochordon of vulva (skin tag) may be either predominantly epithelial (with papillomatosis, hyperkeratosis or attenuation of the epithelium) or primarily stromal (hypo or hypercellular with atypical cells) ([Pril (Makedon Akad Nauk Umet Odd Med Nauki) 2018;39:127](https://www.ncbi.nlm.nih.gov/pubmed/30864355))
+  + Usually associated with systemic conditions: [type 2 diabetes mellitus](https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html), [genital psoriasis](https://www.pathologyoutlines.com/topic/skinnontumorpsoriasis.html), [congenital lymphedema](https://www.pathologyoutlines.com/topic/lymphnodesothernonspecific.html#lymphedema), [Crohn's disease](https://www.pathologyoutlines.com/topic/coloncrohns.html) or obesity

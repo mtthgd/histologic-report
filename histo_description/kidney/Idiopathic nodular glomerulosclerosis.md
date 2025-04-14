@@ -1,0 +1,12 @@
+# Idiopathic nodular glomerulosclerosis
+
+Microscopic (histologic) description
+
+* Histological findings of ING are very similar to those of nodular diabetic glomerulosclerosis, including degree of glomerular obsolescence and interstitial fibrosis ([Front Med (Lausanne) 2024;11:1379547](https://www.ncbi.nlm.nih.gov/pubmed/38831990))
+* In glomeruli, there is diffuse hyaline expansion of the mesangial matrix along with partial nodular configuration and thickening of glomerular basement membrane and neovascularization of glomeruli ([Front Med (Lausanne) 2024;11:1379547](https://www.ncbi.nlm.nih.gov/pubmed/38831990), [Clin Nephrol Case Stud 2022;10:82](https://www.ncbi.nlm.nih.gov/pubmed/36524200))
+* Neovascularization is usually seen at the vascular pole of glomeruli with an increased number of efferent arterioles than usual ([Nephrol Dial Transplant 2021;37:72](https://www.ncbi.nlm.nih.gov/pubmed/33537765))
+* Tubular atrophy and interstitial fibrosis are also present ([J Bras Nefrol 2020;42:484](https://www.ncbi.nlm.nih.gov/pubmed/32776085), [Clin Nephrol Case Stud 2022;10:82](https://www.ncbi.nlm.nih.gov/pubmed/36524200))
+* In blood vessels, there is moderate to exuberant hyalinosis of the wall of arterioles with almost complete occlusion of the lumen (Congo red negative) and mild media thickening of interlobular arteries ([J Bras Nefrol 2020;42:484](https://www.ncbi.nlm.nih.gov/pubmed/32776085), [Clin Nephrol Case Stud 2022;10:82](https://www.ncbi.nlm.nih.gov/pubmed/36524200))
+* Compared to diabetic nephropathy, ING at the time of diagnosis had less hyaline arteriolosclerosis and less proteinuria ([Nephrol Dial Transplant 2021;37:72](https://www.ncbi.nlm.nih.gov/pubmed/33537765))
+* Global sclerosis of glomeruli is not uncommon and slight segmental mesangial proliferation and mesangiolysis can also be present ([Clin Nephrol Case Stud 2022;10:82](https://www.ncbi.nlm.nih.gov/pubmed/36524200), [J Bras Nefrol 2020;42:484](https://www.ncbi.nlm.nih.gov/pubmed/32776085))
+* On special stains, these mesangial nodules are periodic acid-Schiff stain and silver positive, stained blue with Masson trichrome and are negative for Congo red ([J Bras Nefrol 2020;42:484](https://www.ncbi.nlm.nih.gov/pubmed/32776085))

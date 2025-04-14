@@ -1,0 +1,12 @@
+# Lepidic adenocarcinoma
+
+Microscopic (histologic) description
+
+* Primary lung adenocarcinoma with lepidic growth pattern measuring ≤ 3 cm in greatest dimension with > 0.5 cm area of stromal invasion or presence of necrosis, lymphovascular invasion, pleural invasion or spread through air spaces
+* Lepidic growth pattern: neoplastic cells resembling bland type II pneumocytes growing along the surface of the alveolar air spaces
+* Foci of stromal invasion characterized by angulated glands, desmoplastic stroma and increased cytologic atypia ([Cancer 1995;75:2844](https://acsjournals.onlinelibrary.wiley.com/doi/abs/10.1002/1097-0142%2819950615%2975%3A12%3C2844%3A%3AAID-CNCR2820751209%3E3.0.CO%3B2-%23))
+* Size of invasion should be measured as the largest focus of invasion ([Am J Surg Pathol 2014;38:448](https://www.ncbi.nlm.nih.gov/pubmed/24472852), [Arch Pathol Lab Med 2013;137:685](https://www.ncbi.nlm.nih.gov/pubmed/22913371))
+* If there are multiple foci of invasion, the invasive size can be measured as a sum of the percentage of the invasive components in each section multiplied against the greatest tumor dimension ([Am J Surg Pathol 2014;38:448](https://www.ncbi.nlm.nih.gov/pubmed/24472852), [Surg Today 2019;49:828](https://www.ncbi.nlm.nih.gov/pubmed/30968225))
+* Invasion may also be defined as presence of nonlepidic growth pattern (acinar, micropapillary, papillary, solid, colloid or fetal patterns) or the presence of necrosis, lymphovascular invasion, pleural invasion or spread through air spaces
+* For the uncommon occurrence of a lepidic predominant tumor > 3.0 cm with either no invasion or ≤ 0.5 cm of invasion, it is recommended that such tumors be classified as lepidic predominant adenocarcinoma and staged as pT1a, since there is insufficient data to conclude they have the same prognostic features as ≤ 3.0 cm tumors meeting criteria for adenocarcinoma in situ or minimally invasive adenocarcinoma ([J Thorac Oncol 2016;11:1204](https://www.ncbi.nlm.nih.gov/pubmed/27107787))
+* Mucinous carcinoma can often display a prominent lepidic growth pattern; however, the majority of cases will have areas of invasion and should be classified as an invasive mucinous adenocarcinoma

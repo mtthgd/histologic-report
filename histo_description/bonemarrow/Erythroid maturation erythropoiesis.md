@@ -1,0 +1,10 @@
+# Erythroid maturation erythropoiesis
+
+Microscopic (histologic) description
+
+* **Pronormoblast:** 13 - 18 microns, round / ovoid with thin rim of basophilic cytoplasm, large spherical nucleus with fine chromatin and 1 - 2 nucleoli; usually perinuclear halo; N/C ratio is 90%
+* **Basophilic normoblast:** 12 - 17 microns; increase in deeply basophilic cytoplasm compared to pronormoblast and slightly smaller nucleus with slight chromatin condensation; often perinuclear halo; no granules, no nucleolus; N/C ratio is 75 - 85%
+* **Polychromatophilic normoblast:** 12 - 15 microns; round / ovoid with abundant, dull gray to gray green, variegated cytoplasm due to polyribosomes (basophilic) and hemoglobin (eosinophilic); round, condensed and basophilic nucleus has coarse granules that give it a cartwheel appearance; perinuclear halo present; no nucleolus; N/C ratio is 60 - 80%
+* **Orthochromatophilic normoblast:** 8 - 12 microns; round / ovoid cells with pink orange uniformly staining cytoplasm, dark and opaque nucleus that may be pyknotic or in the process of being extruded, no nucleolus
+* **Reticulocyte:** 7 - 10 microns; cannot identify without supravital stain (new methylene blue, brilliant cresyl blue) that colors RNA deep blue and granular; must have at least 2 granules to classify as reticulocyte; cytoplasm is red to pale blue due to RNA, no nucleus is present; larger than mature erythrocyte and lacks central pallor, passes through the bone marrow sinus wall and endothelial cells into the circulating blood where it matures
+* **Erythrocyte:** 7 - 8 microns; round / ovoid biconcave disc with orange red cytoplasm, no RNA, no nucleus; survives ~120 days in circulation

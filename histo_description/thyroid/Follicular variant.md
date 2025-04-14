@@ -1,0 +1,16 @@
+# Follicular variant
+
+Microscopic (histologic) description
+
+* Nuclear features of papillary thyroid carcinoma should be seen multifocally (at least 2 foci) or diffusely within the tumor; such features include nuclear enlargement, nuclear overlapping, chromatin clearing, nuclear membrane irregularity and nuclear grooves ([J Clin Endocrinol Metab 2017;102:15](https://www.ncbi.nlm.nih.gov/pubmed/27732333))
+  + Nuclear score 2 - 3 ([JAMA Oncol 2016;2:1023](https://www.ncbi.nlm.nih.gov/pubmed/27078145))
+  + Nuclear pseudoinclusion, a feature commonly seen in classic and tall cell variant, is rarely present in follicular variant
+* Architecture: exclusively or nearly exclusively follicular
+  + True papillae with fibrovascular core are in general absent in follicular variant
+  + Tumors with mixed papillary (≥ 1% of total tumor volume) and follicular architecture should be classified as classic PTC with predominant follicular pattern, given the associated risk of lymph node metastasis ([Thyroid 2019;29:1792](https://www.ncbi.nlm.nih.gov/pubmed/31452453))
+  + Solid architecture may be present: tumors with mixed follicular and solid architecture should be classified as follicular variant, whereas those with (almost) exclusive solid growth are classified as solid variant
+* Encapsulated follicular variant has a complete fibrous tumor capsule or a well circumscribed tumor border
+* Infiltrative follicular variant shows infiltrative or multinodular growth
+  + Sprinkling sign refers to the phenomenon that neoplastic follicles are seen scattered within the background of normal follicles
+* "Bubble gum colloid", i.e. dense homogenous hypereosinophilic colloid, may be seen in the lumen of neoplastic follicles; scalloping of colloid may be seen
+* Psammoma bodies are exceedingly rare in follicular variant; the identification of psammoma body should promote a search for true papillary (classic) area within the tumor

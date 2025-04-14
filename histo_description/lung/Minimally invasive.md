@@ -1,0 +1,9 @@
+# Minimally invasive
+
+Microscopic (histologic) description
+
+* Primary lung adenocarcinoma measuring ≤ 3 cm in greatest dimension, with ≤ 0.5 cm area of either stromal invasion or nonlepidic growth pattern ([acinar](https://www.pathologyoutlines.com/topic/lungtumoradenocarcinoma.html), [micropapillary](https://www.pathologyoutlines.com/topic/lungtumoradenocarcinoma.html), [papillary](https://www.pathologyoutlines.com/topic/lungtumorpapillaryadeno.html), [solid](https://www.pathologyoutlines.com/topic/lungtumoradenocarcinoma.html), [colloid](https://www.pathologyoutlines.com/topic/lungtumorcolloidadeno.html), [fetal](https://www.pathologyoutlines.com/topic/lungtumoradenofetal.html) or [invasive mucinous](https://www.pathologyoutlines.com/topic/lungtumorinvmucadenocarcinoma.html) patterns)
+* Foci of stromal invasion characterized by angulated glands, desmoplastic stroma and increased cytologic atypia ([Cancer 1995;75:2844](https://www.ncbi.nlm.nih.gov/pubmed/7773933))
+* Size of invasion should be measured as the largest focus of invasion ([Am J Surg Pathol 2014;38:448](https://www.ncbi.nlm.nih.gov/pubmed/24472852), [Arch Pathol Lab Med 2013;137:685](https://www.ncbi.nlm.nih.gov/pubmed/22913371))
+* If there are multiple foci of invasion, the invasive size can be measured as a sum of the percentage of the invasive components in each section multiplied against the greatest tumor dimension (the aggregate invasive size should be ≤ 0.5 cm to render the diagnosis of a minimally invasive adenocarcinoma) ([Am J Surg Pathol 2014;38:448](https://www.ncbi.nlm.nih.gov/pubmed/24472852), [Surg Today 2019;49:828](https://www.ncbi.nlm.nih.gov/pubmed/30968225))
+* Necrosis, lymphovascular invasion, pleural invasion and spread through air spaces must be absent

@@ -1,0 +1,16 @@
+# Intimal sarcoma
+
+Microscopic (histologic) description
+
+* Surgical specimens
+  + Intraluminal tumors are largely necrotic, with a narrow layer or rind of preserved cells limited to the luminal surface of a large thrombus or the intimal aspect of the affected vessel (see [figures 1 - 6](https://www.pathologyoutlines.com/topic/softtissueintimalsarcoma.html#intimalsarcomamicro))
+  + Low power appearance is often reminiscent of a complex atheroma with extensive fibrin thrombus
+  + Tumors are composed of large epithelioid or histiocytoid cells that are poorly cohesive exhibiting a high nuclear to cytoplasmic ratio
+  + Nuclei are pleomorphic with macronucleoli and numerous mitotic figures, including abnormal forms; the cytology of individual tumor cells most closely resembles amelanotic malignant melanoma or an anaplastic lymphoma and multinucleated giant tumor cells are infrequent
+  + Cytoplasm is sparse and occasionally vacuolated but tumor cells neither exhibit intracytoplasmic lumina nor do they line capillary-like spaces in the primary tumors (see [figure 4](https://www.pathologyoutlines.com/topic/softtissueintimalsarcoma.html#intimalsarcomamicro))
+  + In all metastatic sites, the tumor’s appearance is altered and can have a wide variety of histologic patterns; these alterations included classic angiosarcoma ([figure 9](https://www.pathologyoutlines.com/topic/softtissueintimalsarcoma.html#intimalsarcomamicro)), pleomorphic tumor resembling undifferentiated pleomorphic sarcoma (UPS) (malignant fibrous histiocytoma [MFH]) ([figures 10 - 11](https://www.pathologyoutlines.com/topic/softtissueintimalsarcoma.html#intimalsarcomamicro)) or pleomorphic tumor resembling liposarcoma ([figure 12](https://www.pathologyoutlines.com/topic/softtissueintimalsarcoma.html#intimalsarcomamicro)) ([Am J Surg Pathol 2005;29:1184](https://www.ncbi.nlm.nih.gov/pubmed/16096408))
+* Autopsies
+  + In all cases where autopsy material or records were available for review, the tumor had recurred at the primary site
+  + Widespread metastases were found in all cases, involving the lung, liver, vertebral bone, pancreas, small bowel, kidney, adrenal glands, diaphragm and skin
+  + In local extravascular soft tissue recurrences and in distant metastatic sites, the tumors no longer showed the characteristic histology described in the luminal lesions; similar to the surgical pathology material, extravascular tumors took on the appearance of differentiated sarcomas, such as rhabdomyosarcoma ([figure 7](https://www.pathologyoutlines.com/topic/softtissueintimalsarcoma.html#intimalsarcomamicro)), osteosarcoma ([figure 8](https://www.pathologyoutlines.com/topic/softtissueintimalsarcoma.html#intimalsarcomamicro)), angiosarcoma ([figure 9](https://www.pathologyoutlines.com/topic/softtissueintimalsarcoma.html#intimalsarcomamicro)) and liposarcoma ([figure 12](https://www.pathologyoutlines.com/topic/softtissueintimalsarcoma.html#intimalsarcomamicro))
+  + Multiple patterns were seen in a single case and even in a single metastatic site ([Am J Surg Pathol 2005;29:1184](https://www.ncbi.nlm.nih.gov/pubmed/16096408))

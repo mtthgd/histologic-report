@@ -1,0 +1,9 @@
+# Triple negative breast cancer
+
+Microscopic (histologic) description
+
+* Diverse spectrum of high grade and low grade morphology ([Adv Anat Pathol 2020;27:27](https://www.ncbi.nlm.nih.gov/pubmed/31045583))
+  + Low grade: [adenoid cystic carcinoma](https://www.pathologyoutlines.com/topic/breastmalignantadenoidcystic.html), [secretory carcinoma](https://www.pathologyoutlines.com/topic/breastmalignantjuvenile.html), [fibromatosis-like metaplastic carcinoma](https://www.pathologyoutlines.com/topic/breastmalignantmetaplasticfibro.html), [low grade adenosquamous carcinoma](https://www.pathologyoutlines.com/topic/breastmalignantadenosquamous.html), [tall cell carcinoma with reversed polarity](https://www.pathologyoutlines.com/topic/breastmalignantspcrp.html)
+  + High grade: [infiltrating duct carcinoma, no special type](https://www.pathologyoutlines.com/topic/breastmalignantductalNOS.html), [squamous cell carcinoma](https://www.pathologyoutlines.com/topic/breastmalignantscc.html), [spindle cell carcinoma](https://www.pathologyoutlines.com/topic/breastmalignantmetaplastic.html), [carcinoma with heterologous elements](https://www.pathologyoutlines.com/topic/breastmalignantmetaplastic.html), [carcinoma with medullary features](https://www.pathologyoutlines.com/topic/breastmalignantmedullary.html)
+* Majority (88%) are invasive ductal carcinoma, no special type ([Ann Diagn Pathol 2020;46:151490](https://www.ncbi.nlm.nih.gov/pubmed/32179443))
+  + Most commonly poorly differentiated / high grade (grade 3) ([Cancer 2007;109:1721](https://www.ncbi.nlm.nih.gov/pubmed/17387718), [Cancer 2007;110:876](https://www.ncbi.nlm.nih.gov/pubmed/17620276))

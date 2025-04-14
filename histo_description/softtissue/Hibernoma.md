@@ -1,0 +1,9 @@
+# Hibernoma
+
+Microscopic (histologic) description
+
+* Neoplastic lesion composed of polygonal brown fat cells with stromal cells in the background ([Case Rep Oncol 2017;10:438](https://www.ncbi.nlm.nih.gov/pubmed/28626403))
+* Large number of pale and eosinophilic brown fat cells with multivacuolated, eosinophilic granular cytoplasm and small central nucleus (about 70%) admixed with variable amount of univacuolated white cells ([Case Rep Oncol 2017;10:438](https://www.ncbi.nlm.nih.gov/pubmed/28626403), [Am J Case Rep 2020;21:e921447](https://www.ncbi.nlm.nih.gov/pubmed/32332693), [J Comput Assist Tomogr 2019;43:793](https://www.ncbi.nlm.nih.gov/pubmed/31453977), [J Pathol Transl Med 2017;51:499](https://www.ncbi.nlm.nih.gov/pubmed/28827513), [Am J Surg Pathol 2018;42:951](https://www.ncbi.nlm.nih.gov/pubmed/29629919), [Virchows Arch 2021;478:527](https://www.ncbi.nlm.nih.gov/pubmed/32815035))
+* Multivacuolations resemble lipoblasts
+* Morphological variations or subtypes: typical, myxoid (9%), lipoma-like (7%), spindle cell (2%), thick bundles of collagen fibers, presence of mast cells and exclusively containing brown fat cells ([Case Rep Oncol 2017;10:438](https://www.ncbi.nlm.nih.gov/pubmed/28626403), [Am J Case Rep 2020;21:e921447](https://www.ncbi.nlm.nih.gov/pubmed/32332693), [Virchows Arch 2021;478:527](https://www.ncbi.nlm.nih.gov/pubmed/32815035))
+* Cytological atypia, necrosis and mitosis is unusual ([J Pathol Transl Med 2017;51:499](https://www.ncbi.nlm.nih.gov/pubmed/28827513), [Am J Surg Pathol 2018;42:951](https://www.ncbi.nlm.nih.gov/pubmed/29629919), [BMC Surg 2021;21:30](https://www.ncbi.nlm.nih.gov/pubmed/33413245))

@@ -1,0 +1,10 @@
+# Granulomatous hepatitis
+
+Microscopic (histologic) description
+
+* Morphology (epithelioid, suppurative, fibrin ring or lipogranuloma) may suggest underlying etiology
+* Epithelioid granuloma (aggregates of epithelioid histiocytes with or without multinucleated giant cells): infectious and noninfectious (e.g., [primary biliary cholangitis](https://www.pathologyoutlines.com/topic/liverPBC.html), [drug induced liver injury](https://www.pathologyoutlines.com/topic/liverdrugtoxingeneral.html), foreign body reaction, [sarcoidosis](https://www.pathologyoutlines.com/topic/lungnontumorsarcoidosis.html), [Crohn's disease](https://www.pathologyoutlines.com/topic/coloncrohns.html), [chronic granulomatous disease](https://www.pathologyoutlines.com/topic/lymphnodeschronicgranulomatousdisease.html), lymphoma)
+* Caseating epithelioid granuloma (necrotic debris at the center surrounded by aggregates of epithelioid histiocytes with or without multinucleated giant cells): typically associated with infections, most notably tuberculosis
+* Suppurative granuloma (granulomatous inflammation with stellate abscess formation or suppurative inflammation): bartonellosis, yersinosis, tularemia, listerosis, melioidosis, actinomycosis and fungal infection
+* Fibrin ring granuloma (also known as doughnut granuloma; central fat globule surrounded by a circumferential rim of fibrin and histiocytes): originally pathognomonic for Q fever (*Coxiella burnetii*); now considered as nonspecific and could be associated with mycobacterial infection, staphylococcal bacteremia, leishmaniasis, toxoplasmosis, cytomegalovirus, Epstein-Barr virus, acute hepatitis A, systemic lupus erythematosus, allopurinol toxicity and lymphoma
+* Lipogranuloma (central fat globule surrounded by histiocytes without a fibrin ring): [alcoholic](https://www.pathologyoutlines.com/topic/liveralcoholichep.html) and [nonalcoholic fatty liver disease](https://www.pathologyoutlines.com/topic/liverNASH.html), mineral oil

@@ -1,0 +1,12 @@
+# Angiomyofibroblastoma
+
+Microscopic (histologic) description
+
+* Sharply circumscribed, unencapsulated ([J Surg Case Rep 2020;2020:rjaa051](https://www.ncbi.nlm.nih.gov/pubmed/32477485), [BMJ Case Rep 2019;12:e229486](https://www.ncbi.nlm.nih.gov/pubmed/31167770), [Diagnostics (Basel) 2022;12:357](https://www.ncbi.nlm.nih.gov/pubmed/35204448))
+* Hypercellular and hypocellular areas, abundant irregularly distributed capillary sized blood vessels or small veins in myxoedematous to fibrous collagenous stroma ([J Surg Case Rep 2020;2020:rjaa051](https://www.ncbi.nlm.nih.gov/pubmed/32477485), [BMJ Case Rep 2019;12:e229486](https://www.ncbi.nlm.nih.gov/pubmed/31167770), [Diagnostics (Basel) 2022;12:357](https://www.ncbi.nlm.nih.gov/pubmed/35204448))
+* Bland spindle to epithelioid to plasmacytoid tumor cells with eosinophilic cytoplasm arranged in a nest, a cord-like pattern or singly and concentrated around blood vessels and between fat cells ([Diagnostics (Basel) 2022;12:357](https://www.ncbi.nlm.nih.gov/pubmed/35204448), [Gynecol Minim Invasive Ther 2022;11:185](https://www.ncbi.nlm.nih.gov/pubmed/36158296))
+* Binucleated or multinucleated stromal cells may be present ([Diagnostics (Basel) 2022;12:357](https://www.ncbi.nlm.nih.gov/pubmed/35204448), [Mills: Sternberg's Diagnostic Surgical Pathology, 6th Edition, 2015](https://www.amazon.com/exec/obidos/ASIN/1451188757/pathologyoutl-20))
+* Rarely entrapped mucosal glands, nerves and fat (massive, denoted as lipomatous variant) ([Diagnostics (Basel) 2022;12:357](https://www.ncbi.nlm.nih.gov/pubmed/35204448), [Hum Pathol 1997;28:1046](https://www.ncbi.nlm.nih.gov/pubmed/9308729))
+* Rare, slight nuclear pleomorphism, hyperchromasia and degenerative changes, scattered mast cells and lymphocytes in the stroma ([Diagnostics (Basel) 2022;12:357](https://www.ncbi.nlm.nih.gov/pubmed/35204448))
+* Mitotic activity absent or sparse ([Diagnostics (Basel) 2022;12:357](https://www.ncbi.nlm.nih.gov/pubmed/35204448))
+* Rarely may contain atypical cells and increased mitotic activity (so called malignant angiomyofibroblastoma) or sarcomatous areas close to leiomyosarcoma or undifferentiated pleomorphic sarcoma (so called dedifferentiated angiomyofibroblastoma) ([Diagnostics (Basel) 2022;12:357](https://www.ncbi.nlm.nih.gov/pubmed/35204448))
