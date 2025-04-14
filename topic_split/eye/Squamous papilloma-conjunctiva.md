@@ -1,0 +1,208 @@
+# Squamous papilloma-conjunctiva
+
+Squamous papilloma-conjunctiva
+
+Table of Contents
+
+[Definition / general](https://www.pathologyoutlines.com/superpage/eye.html#definitiongeneral310297) | [Essential features](https://www.pathologyoutlines.com/superpage/eye.html#essentialfeatures310298) | [ICD coding](https://www.pathologyoutlines.com/superpage/eye.html#icdcoding310299) | [Epidemiology](https://www.pathologyoutlines.com/superpage/eye.html#epidemiology310300) | [Etiology](https://www.pathologyoutlines.com/superpage/eye.html#etiology310301) | [Clinical features](https://www.pathologyoutlines.com/superpage/eye.html#clinicalfeatures310302) | [Diagnosis](https://www.pathologyoutlines.com/superpage/eye.html#diagnosis310303) | [Prognostic factors](https://www.pathologyoutlines.com/superpage/eye.html#prognosticfactors310304) | [Case reports](https://www.pathologyoutlines.com/superpage/eye.html#casereports310305) | [Treatment](https://www.pathologyoutlines.com/superpage/eye.html#treatment310306) | [Clinical images](https://www.pathologyoutlines.com/superpage/eye.html#clinicalimages310307) | [Gross description](https://www.pathologyoutlines.com/superpage/eye.html#grossdescription310308) | [Microscopic (histologic) description](https://www.pathologyoutlines.com/superpage/eye.html#microscopichistologicdescription310309) | [Microscopic (histologic) images](https://www.pathologyoutlines.com/superpage/eye.html#microscopichistologicimages310310) | [Cytology description](https://www.pathologyoutlines.com/superpage/eye.html#cytologydescription310311) | [Positive stains](https://www.pathologyoutlines.com/superpage/eye.html#positivestains310312) | [Negative stains](https://www.pathologyoutlines.com/superpage/eye.html#negativestains310313) | [Molecular / cytogenetics description](https://www.pathologyoutlines.com/superpage/eye.html#molecularcytogeneticsdescription310314) | [Sample pathology report](https://www.pathologyoutlines.com/superpage/eye.html#samplepathologyreport310315) | [Differential diagnosis](https://www.pathologyoutlines.com/superpage/eye.html#differentialdiagnosis310316) | [Board review style question #1](https://www.pathologyoutlines.com/superpage/eye.html#boardreviewstylequestion1310317) | [Board review style answer #1](https://www.pathologyoutlines.com/superpage/eye.html#boardreviewstyleanswer1310318) | [Board review style question #2](https://www.pathologyoutlines.com/superpage/eye.html#boardreviewstylequestion2310319) | [Board review style answer #2](https://www.pathologyoutlines.com/superpage/eye.html#boardreviewstyleanswer2310320)
+
+Definition / general
+
+* Benign tumor characterized by an outgrowth of epithelial and stromal elements of the conjunctiva
+* High recurrence rate
+
+Essential features
+
+* Benign epithelial tumor
+* Strong association with human papillomavirus (HPV 6 and 11)
+* Grossly classified as sessile or pedunculated
+* Location: plica semilunaris or caruncle in younger patients and limbal area in older patients; less frequent in fornix or palpebral conjunctiva
+
+ICD coding
+
+* ICD-10: [C00-D49](https://www.icd10data.com/ICD10CM/Codes/C00-D49) - neoplasms
+  + [D31](https://www.icd10data.com/ICD10CM/Codes/C00-D49/D10-D36/D31-/D31) - benign neoplasm of eye and adnexa
+
+Epidemiology
+
+* Incidence unknown
+* Approximately 1% of epibulbar cases in children and 11% in adults ([JAMA Ophthalmol 2013;131:585](https://www.ncbi.nlm.nih.gov/pubmed/23538642))
+* More common in 20 - 30 year olds
+* High association with human papillomavirus 6 and 11 (low risk subtype) in nonlimbal papilloma
+
+Etiology
+
+* Human papillomavirus 6 and 11 (low risk subtype) in nonlimbal papilloma
+* UV exposure in limbal papilloma
+* Reference: [Br J Ophthalmol 2007;91:1014](https://www.ncbi.nlm.nih.gov/pubmed/17166894)
+
+Clinical features
+
+* Younger patients
+* No decrease or loss of visual acuity
+* Single lesion that is soft and has classic finger-like projections
+* Siblings may be affected
+* Association with [cutaneous warts](https://www.pathologyoutlines.com/topic/skinnontumorwarts.html)
+* Reference: [JAMA Ophthalmol 2013;131:585](https://www.ncbi.nlm.nih.gov/pubmed/23538642)
+
+Diagnosis
+
+* Performed under ophthalmologic examination; slit lamp observation usually aids in the differential diagnosis
+* Biomicroscopy and optical coherence tomography (OCT) imaging may help to identify intraocular extension in cases where malignancy is suspected
+* Reference: [Eye Vis (Lond) 2019;6:18](https://www.ncbi.nlm.nih.gov/pubmed/31236424)
+
+Prognostic factors
+
+* High recurrence rate: younger patients > older patients
+* HPV positive cases
+
+Case reports
+
+* 5 year old girl with a disfiguring right eye lesion that recurred several times ([AMA Ophthalmol 2020;138:e190930](https://www.ncbi.nlm.nih.gov/pubmed/32053177))
+* 28 year old woman with a caruncular mass ([Bezmialem Science 2018;6:160](http://www.bezmialemscience.org/archives/archive-detail/article-preview/a-combination-of-nevus-and-papilloma-in-the-same-l/20199))
+* 49 year old woman with a limbal mass treated with interferon alpha 2b eye drops ([Medicine (Baltimore) 2020;99:e19181](https://www.ncbi.nlm.nih.gov/pubmed/32049852))
+* 54 year old woman with a rapidly growing eyelid tumor ([Case Rep Ophthalmol Med 2019;2019:5830493](https://www.ncbi.nlm.nih.gov/pubmed/31781447))
+
+Treatment
+
+* Observation and follow up can be used, as some of these lesions regress
+* Medical treatment includes cryotherapy, CO2 laser, mitomycin C, cimetidine and interferon
+* Excision recommended in adult limbal cases to rule out dysplasia; in children, if discomfort is present or for aesthetic reasons
+* Reference: [Eye Vis (Lond) 2019;6:18](https://www.ncbi.nlm.nih.gov/pubmed/31236424)
+
+Clinical images
+
+Images hosted on other servers:
+
+[![Missing Image](https://www.pathologyoutlines.com/thumb/eyesquamouspap1.jpg)](https://www.atlasophthalmology.net/photo.jsf;jsessionid=9BD87DDC1CD33DB19F5929C661CCDFFB?node=2748&locale=en)
+
+Pedunculated red-orange mass of caruncle
+
+[![Missing Image](https://www.pathologyoutlines.com/thumb/eyesquampap2.jpg)](https://www.atlasophthalmology.net/photo.jsf?node=90&locale=en)
+
+Pedunculated vascular lesion with smooth surface
+
+[![Missing Image](https://www.pathologyoutlines.com/thumb/eyesquampap3.jpg)](https://www.atlasophthalmology.net/photo.jsf?node=2749&locale=en)
+
+Sessile lesion
+
+Gross description
+
+* Fragment of whitish / reddish sessile / pedunculated papillomatous tissue measuring 2 mm to 1 cm
+
+Microscopic (histologic) description
+
+* Exophytic:
+  + Finger-like projection of an acanthotic epithelium with numerous goblet cells without dysplasia
+  + Stroma is composed of a fibrovascular core, usually containing inflammatory cells
+  + Occasionally, koilocytosis is present
+* Limbal squamous cell papilloma:
+  + Characterized by squamous cells with mild atypia
+  + Contains only a few goblet cells
+  + Solar elastosis is usually present within the stroma
+  + Papillomatosis in this location is less striking
+* Sessile papillomas can be more frequently associated with dysplastic changes than pedunculated papillomas
+* Reference: [Acta Ophthalmol Scand 2000;78:663](https://www.ncbi.nlm.nih.gov/pubmed/11167228)
+
+Microscopic (histologic) images
+
+Contributed by Pablo Zoroquiain, M.D.
+
+[![Finger-like projections of the neoplastic process](https://www.pathologyoutlines.com/imgau/eyepapillomaconjunctivazoroquiain01.jpg)](https://www.pathologyoutlines.com/imgau/eyepapillomaconjunctivazoroquiain01.jpg)
+
+Finger-like projections of the neoplastic process
+
+[![Acanthotic epithelium with fibrovascular cores](https://www.pathologyoutlines.com/imgau/eyepapillomaconjunctivazoroquiain02.jpg)](https://www.pathologyoutlines.com/imgau/eyepapillomaconjunctivazoroquiain02.jpg)
+
+Acanthotic epithelium with fibrovascular cores
+
+[![Goblet cells present](https://www.pathologyoutlines.com/imgau/eyepapillomaconjunctivazoroquiain03.jpg)](https://www.pathologyoutlines.com/imgau/eyepapillomaconjunctivazoroquiain03.jpg)
+
+Goblet cells present
+
+[![Base of the tumor](https://www.pathologyoutlines.com/imgau/eyepapillomaconjunctivazoroquiain04.jpg)](https://www.pathologyoutlines.com/imgau/eyepapillomaconjunctivazoroquiain04.jpg)
+
+Base of the tumor
+
+Cytology description
+
+* Conjunctival impression cytology:
+  + Squamous cells with numerous goblet cells
+  + Dysplasia can be seen in limbal lesions
+  + If no dysplasia is observed, is similar to conjunctiva with mild to moderate squamous metaplasia
+
+Positive stains
+
+* Often [p53](https://www.pathologyoutlines.com/topic/stainsp53.html), [Ki67](https://www.pathologyoutlines.com/topic/stainski67.html), [BCL2](https://www.pathologyoutlines.com/topic/stainsbcl2.html) ([Ann N Y Acad Sci 2004;1030:419](https://www.ncbi.nlm.nih.gov/pubmed/15659825))
+* [Ki67](https://www.pathologyoutlines.com/topic/stainski67.html): mostly basilar cells but many higher level cells positive
+* [p53](https://www.pathologyoutlines.com/topic/stainsp53.html): weakly and focally positive (10 - 20%) ([Surv Ophthalmol 2015;60:263](https://www.ncbi.nlm.nih.gov/pubmed/25890626))
+* [CK7](https://www.pathologyoutlines.com/topic/stainsck7.html): full thickness staining
+* [CK14](https://www.pathologyoutlines.com/topic/stainsck14.html): basilar positive ([Am J Ophthalmol 2013;156:830](https://www.ncbi.nlm.nih.gov/pubmed/23786782))
+
+Negative stains
+
+* [CK17](https://www.pathologyoutlines.com/topic/stainsck17.html)
+
+Molecular / cytogenetics description
+
+* HPV 6 in 80% ([Clin Ophthalmol 2012;6:1553](https://www.ncbi.nlm.nih.gov/pubmed/23055678))
+* Also HPV 11; rarely HPV 45 ([Br J Ophthalmol 2007;91:1014](https://www.ncbi.nlm.nih.gov/pubmed/17166894))
+* Rarely HPV 13 ([Diagn Microbiol Infect Dis 2005;53:71](https://www.ncbi.nlm.nih.gov/pubmed/15936914))
+* Note: koilocytosis is often lacking even when HPV is present ([Br J Ophthalmol 2001;85:785](https://www.ncbi.nlm.nih.gov/pubmed/11423448))
+
+Sample pathology report
+
+* Right eye, excision:
+  + Conjunctival squamous papilloma (see comment)
+  + Comment: There is no sign of malignancy in this particular specimen.
+
+Differential diagnosis
+
+* [Ocular surface squamous neoplasia](https://www.pathologyoutlines.com/topic/eyecinconj.html):
+  + Dysplasia is present within the squamous epithelium
+  + If the basement membrane is infiltrated, [squamous cell carcinoma](https://www.pathologyoutlines.com/topic/eyeconjSCC.html) is the diagnosis
+* [Pyogenic granuloma](https://www.pathologyoutlines.com/topic/skintumornonmelanocyticpyogenicgranuloma.html):
+  + Usually erosion is present at the surface and there is no acanthotic epithelium
+  + Granulation tissue is exuberant
+  + Clinically, with a history of trauma or previous surgery
+* [Follicular conjunctivitis](https://www.pathologyoutlines.com/topic/eyechronicconj.html):
+  + Dense lymphoplasmacytic infiltrate is present with germinal center formation
+  + Epithelium is thin
+
+Board review style question #1
+
+[![](https://www.pathologyoutlines.com/imgau/eyepapillomaconjunctivazoroquiain05.jpg)](https://www.pathologyoutlines.com/imgau/eyepapillomaconjunctivazoroquiain05.jpg)
+
+What do the intraepithelial clear spaces in this image represent?
+
+1. Atypical nonpigmented melanocytes
+2. Goblet cells
+3. Procesing artifact classically in this lesions
+4. Sebaceous cells in pagetoid spread
+
+Board review style answer #1
+
+**B.** Goblet cells are classically observed in these cases. Sometimes they are very numerous and they are characteristically slightly basophilic. Pagetoid spread of sebaceous cells is represented by malignant cells with atypical nuclei and optically empty vacuolated cytoplasm. Amelanotic spread of melanoma cells must show malignant features of the nuclei and is usually centrally located. An artifact will not be structured as observed in the cells here.
+
+[Comment Here](https://www.ncbi.nlm.nih.gov/pubmed/)
+
+Reference: [Squamous papilloma-conjunctiva](https://www.pathologyoutlines.com/topic/eyepapillomaconjunctiva.html)
+
+Board review style question #2
+
+Squamous papilloma is more frequently associated with
+
+1. Herpex simplex virus
+2. Human papillomavirus 6 and 11
+3. Human papillomavirus 16 and 18
+4. Sun exposure
+
+Board review style answer #2
+
+**B.** The most frequent associations are with HPV 6 and 11. Sun exposure is an important association in limbal papillomas but is less frequent than HPV. Herpes virus is not associated with squamous papilloma. HPV 16 and 18 are associated with ocular surface squamous neoplasia.
+
+[Comment Here](https://www.ncbi.nlm.nih.gov/pubmed/)
+
+Reference: [Squamous papilloma-conjunctiva](https://www.pathologyoutlines.com/topic/eyepapillomaconjunctiva.html)
+
+---
