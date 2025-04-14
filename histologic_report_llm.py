@@ -22,10 +22,20 @@ class Histologic_report_writer():
             {"role": "system", "content": "Tu es un médecin anatomopatholigiste expert dans la rédaction de compte-rendus médicaux"}
             {"role": "user", "content": prompt}
             ]
-        response = response["message"]["content"]
-        return response 
+        response = self._ollama_client.chat(model=self._model, messages=messages)
+        return response["message"]["content"]
     
-    def processing_all_files(self, input_dir=..., output_file=...):
+    def processing_one_file(self, file_path):
+        if not os.path.exists(file_path):
+            return "le fichier n'existe pas"
+        
+        with open(file_path, "r", encoding="utf-8") as f:
+            description_histo = f.read()
+
+        return self.report_writer(description_histo)
+
+
+    def processing_all_files(self, input_dir, output_file):
 
         all_report = []
 
