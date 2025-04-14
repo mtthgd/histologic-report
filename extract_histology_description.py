@@ -1,8 +1,8 @@
 import re, os 
 from bs4 import BeautifulSoup
 
-input_dir = "/Users/matthieuguillard/Desktop/CODE/scraping/topic_split"
-output_dir = "/Users/matthieuguillard/Desktop/CODE/scraping/histo_description"
+input_dir = "topic_split"
+output_dir = "histo_description"
 
 # je crée le dossier histo_description 
 os.makedirs(output_dir, exist_ok=True)
